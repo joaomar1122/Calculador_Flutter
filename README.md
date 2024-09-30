@@ -61,6 +61,3 @@ Para mais detalhes sobre Flutter, acesse a [documentação oficial](https://docs
 ## Licença
 
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](./LICENSE) para mais detalhes.
-```
-
-Esse é o arquivo README em linguagem Markdown, pronto para ser usado no seu projeto.
