@@ -15,10 +15,6 @@ Este projeto é uma aplicação Flutter que implementa uma calculadora básica, 
 - Interface simples e responsiva
 - Suporte para dispositivos Android e iOS
 
-## Capturas de Tela
-
-*(Adicione capturas de tela do aplicativo aqui, se disponível)*
-
 ## Requisitos
 
 - Flutter SDK (>= 3.0.0)
